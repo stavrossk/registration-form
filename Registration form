@@ -19,7 +19,7 @@
 		<td><input type="submit" value="Sing up" name="registration" /></td>
 	</tr>
 </table>
-</form>
+</form> 
 
 </body>
 </html>
