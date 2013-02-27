@@ -1,5 +1,5 @@
 reg-form
 ========
-
-Here is the code from the registration form from tutorial:
+How to create registration form useing PHP and MySQL
+Here is the code from the tutorial:
 http://www.antonoffplus.com/how-to-create-a-registration-form-using-php-and-mysql/
